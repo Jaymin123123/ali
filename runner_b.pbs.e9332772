@@ -1,0 +1,10 @@
+Warning: Malformed line skipped: Node1167,Node4351
+Warning: Malformed line skipped: Node873,N
+Warning: Malformed line skipped: Node113,Node3098
+terminate called after throwing an instance of 'std::invalid_argument'
+  what():  stoi
+Warning: Malformed line skipped: Node1
+Warning: Malformed line skipped: No
+Warning: Malformed line skipped: Node321,Node
+terminate called after throwing an instance of 'std::invalid_argument'
+  what():  stoi
